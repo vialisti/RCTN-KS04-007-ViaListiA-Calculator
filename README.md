@@ -1,1 +1,3 @@
-# RCTN-KS04-007-ViaListiA-Calculator
+# Online Simple Calculator
+## Student Id : RCTN-KS04-007
+## Name : Via Listi Anggraeny
